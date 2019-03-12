@@ -44,7 +44,6 @@ a {
     transform: scale(1.1);
 }
 
-
 .main-body-container {
     position:relative; 
     overflow:hidden; 
@@ -59,19 +58,11 @@ a {
     background-color:rgba(91, 68, 97, 0.76);
 }
 
-.logo{
-    height: 85%;
-    float: left;
-    margin: 5px;
-}
-
 .logo-text {
     display: block;
-    font-size: 30px;
-    color: gainsboro;
-    width: 80%;
-    float: left;
     padding: 5px;
+    font-size: 30px;
+    color: gainsboro ;
 }
 
 .main-container {
