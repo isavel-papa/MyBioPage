@@ -58,11 +58,19 @@ a {
     background-color:rgba(91, 68, 97, 0.76);
 }
 
+.logo {
+    float: left;
+    height: 80%;
+    padding: 5px;
+}
+
 .logo-text {
     display: block;
     padding: 5px;
     font-size: 30px;
-    color: gainsboro ;
+    color: gainsboro;
+    float:left;
+    width:80%;
 }
 
 .main-container {
