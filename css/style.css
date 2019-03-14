@@ -59,9 +59,15 @@ a {
 }
 
 .logo {
+<<<<<<< HEAD
     float: left;
     height: 80%;
     padding: 5px;
+=======
+    height: 90%;
+    padding: 3px;
+    float: left;
+>>>>>>> b3cfe1da75b9c4cacb56cec875318305e5014d94
 }
 
 .logo-text {
@@ -69,8 +75,13 @@ a {
     padding: 5px;
     font-size: 30px;
     color: gainsboro;
+<<<<<<< HEAD
     float:left;
     width:80%;
+=======
+    padding-left: 40px;
+    width: 80%;
+>>>>>>> b3cfe1da75b9c4cacb56cec875318305e5014d94
 }
 
 .main-container {
