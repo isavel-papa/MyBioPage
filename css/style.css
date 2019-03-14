@@ -69,8 +69,10 @@ a {
     padding: 5px;
     font-size: 30px;
     color: gainsboro;
-    padding-left: 40px;
+    float:left;
+    padding-left: 10px;
     width: 80%;
+
 }
 
 .main-container {
